@@ -86,6 +86,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/ysfsrtl123/ysfsrtl123/output/snake.svg" alt="Snake animation" />
 
 ###
